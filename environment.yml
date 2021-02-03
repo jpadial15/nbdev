@@ -1,0 +1,9 @@
+name: nbdev_template
+
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - pip:
+    - nbdev
+    - ruffus
